@@ -1,0 +1,13 @@
+name: panman-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - panman=0.1.4
+  - snakemake=9.22.0
+  - biopython=1.88
+  - psutil=7.2.2
+  - pip
+  - pip:
+      - ete3==3.1.3

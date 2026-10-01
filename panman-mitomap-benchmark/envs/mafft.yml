@@ -1,0 +1,5 @@
+name: mafft-env
+channels:
+  - conda-forge
+dependencies:
+  - mafft=7.526

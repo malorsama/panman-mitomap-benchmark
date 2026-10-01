@@ -1,0 +1,7 @@
+{
+  "input.fasta": "db25849006d1d0fb33b27a69cecd2f43a8f170fb684587cfb42d38b0abae3856",
+  "input.fasta.gz": "ab9dc05fe0ce34cf220c4586ce0979f78c61cf681a842aa8a1fcd8d5ff54d921",
+  "output/mafft.aln": "7f9929b98127fdffeaddd91454f65c98008742cc668abad2ee52d66b4ea57f3f",
+  "output/mashtree.nwk": "0312aa5ae095ef583dbbf6978aa205aad2f3f3f3c6d28cefada0d83e219b571a",
+  "panman/out.panman": "95819e1f9122791788ca977b84e0befdd08c9a68be7cb7de6d3e7d4fc0dfb048"
+}

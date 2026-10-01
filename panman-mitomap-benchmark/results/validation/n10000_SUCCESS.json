@@ -1,0 +1,10 @@
+{
+  "completed_utc": "2026-10-01T05:40:55.354563+00:00",
+  "sha256": {
+    "input.fasta": "69bf00d960bae94082c1e6cdf8cabbbc9c3ce3e90632822ff211183c46de93d7",
+    "input.fasta.gz": "056ff017663985bc478e168c5992168e5b2e356f8e6e0b04421cba40f3f58277",
+    "output/mafft.aln": "4ea7814a448d8072c6b606a5f078850bb40ec11aa3f10d9ee75acb23a047df63",
+    "output/mashtree.nwk": "012ae9db68c3c3dc02346f2ef8aa060509929e68b3d9f0685a1aed720019b05e",
+    "panman/out.panman": "166a366707b19df6e8a743cc4a35a385f9aef19ef8a0d29fb9ee1eab3a6c0566"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "input_count": 5000,
+  "alignment_count": 5000,
+  "alignment_length": 34013,
+  "tree_leaves": 5000,
+  "ungapped_alignment_matches_input": true,
+  "panman_validation": "process_exit_zero_and_nonempty_file; no extraction roundtrip performed"
+}
